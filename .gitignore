@@ -1,0 +1,33 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build outputs
+*.test
+*.out
+
+# Output of go build
+/main
+/nestora
+
+# Dependency directories (vendor/)
+vendor/
+
+# Go workspace file (Go 1.18+)
+go.work
+go.work.sum
+
+# IDE/editor specific
+.vscode/
+.idea/
+*.swp
+
+# macOS system files
+.DS_Store
+
+# Zed (if it ever adds local config)
+.zed/
+
