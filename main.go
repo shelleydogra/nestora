@@ -14,7 +14,7 @@ import (
 // --- Structs ---
 
 type Property struct {
-	ID      string
+	ID      string.
 	Name    string
 	Address string
 	Units   []Unit
